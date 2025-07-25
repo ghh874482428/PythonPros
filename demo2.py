@@ -14,3 +14,5 @@ print(1*4)
 print('你好')
 
 print('好厉害')
+
+print("上上")
