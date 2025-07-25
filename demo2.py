@@ -15,4 +15,6 @@ print('你好')
 
 print('好厉害')
 
-print("上上")
+print("上上ghh")
+
+print("上")
