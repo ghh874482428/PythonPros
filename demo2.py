@@ -12,3 +12,5 @@ print("1111")
 print(1*4)
 
 print('你好')
+
+print('好厉害')
